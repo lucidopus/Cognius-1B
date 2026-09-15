@@ -30,6 +30,7 @@ Cognius-mini-1B-v2 is Llama-3.2-1B-Instruct fine-tuned with LoRA on 1,044 curate
 ### Model Sources
 
 - **Repository:** https://huggingface.co/harshil30402/Cognius-mini-1B-v2
+- **Training/eval code:** https://github.com/lucidopus/Cognius-1B
 
 ## Uses
 
