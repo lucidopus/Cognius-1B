@@ -1,0 +1,106 @@
+[
+    {
+        "question": "What is the longest river in the world?",
+        "score": 9
+    },
+    {
+        "question": "How do vaccines work?",
+        "score": 8
+    },
+    {
+        "question": "What is gravity?",
+        "score": 8
+    },
+    {
+        "question": "What is the significance of the Sistine Chapel ceiling?",
+        "score": 9
+    },
+    {
+        "question": "What is the difference between weather and climate?",
+        "score": 9
+    },
+    {
+        "question": "What is the law of demand in economics?",
+        "score": 8
+    },
+    {
+        "question": "Explain the benefits of community service.",
+        "score": 9
+    },
+    {
+        "question": "What's the difference between DNA and RNA?",
+        "score": 7
+    },
+    {
+        "question": "What is the significance of biodiversity hotspots?",
+        "score": 8
+    },
+    {
+        "question": "How do you troubleshoot a smartphone that won\u2019t charge?",
+        "score": 7
+    },
+    {
+        "question": "What is the difference between a physical and chemical change?",
+        "score": 6
+    },
+    {
+        "question": "What is the difference between renewable and non-renewable energy?",
+        "score": 9
+    },
+    {
+        "question": "Why is the sky blue?",
+        "score": 9
+    },
+    {
+        "question": "Explain the implications of quantum computing for encryption algorithms.",
+        "score": 9
+    },
+    {
+        "question": "How does the process of fermentation work?",
+        "score": 7
+    },
+    {
+        "question": "What is strategic planning?",
+        "score": 9
+    },
+    {
+        "question": "How do community gardens benefit urban spaces?",
+        "score": 8
+    },
+    {
+        "question": "Who is known as the father of computers?",
+        "score": 2
+    },
+    {
+        "question": "Who invented the telephone?",
+        "score": 10
+    },
+    {
+        "question": "Explain the process of photosynthesis in detail.",
+        "score": 8
+    },
+    {
+        "question": "What's the difference between correlation and causation?",
+        "score": 7
+    },
+    {
+        "question": "How do solar panels work?",
+        "score": 8
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "score": 10
+    },
+    {
+        "question": "Develop a risk management plan for a financial institution dealing with cyber threats.",
+        "score": 8
+    },
+    {
+        "question": "What is the principle of \u2018innocent until proven guilty\u2019 in legal systems?",
+        "score": 7
+    },
+    {
+        "question": "What is inflation?",
+        "score": 8
+    }
+]
